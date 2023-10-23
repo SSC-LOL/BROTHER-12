@@ -37,7 +37,7 @@ print("\033[97;1m[\x1b[38;5;50m+\033[97;1m]\x1b[38;5;50m JOIN MY FACEBOOK GORUP 
 #os.system("espeak -a 300 \"JOIN,MY,FACEBOOK,GORUP,\"")
 time.sleep(2)
 os.system(f'xdg-open https://www.facebook.com/groups/266865079324430/?ref=share')
-os.system(f'xdg-open https://m.me/j/AbYBT9OZqwkdhY78/')
+os.system(f'xdg-open github.com/SSC-LOL/BROTHER-12/blob/main/approval.%20txt')
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ SSC-King ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
